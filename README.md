@@ -1,5 +1,6 @@
 # Synology-Git
 Git server web interface for small synology systems (that do not support things like Gitea via virtualization)
+Depending on the version of the Synology OS DSM, some settings may deviate.
 
 ### Features
 - Login via diskstation accounts (FileStation API)
